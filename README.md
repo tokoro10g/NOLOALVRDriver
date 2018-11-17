@@ -21,5 +21,6 @@ The implementation exploits ALVR-FreePIE integration (without using FreePIE).
 
 ## Note
 
-* Standalone tracking might be possible by using [VirtualHere USB](https://www.virtualhere.com/home).
+* Standalone tracking might be possible by using [VirtualHere USB](https://www.virtualhere.com/home)
 * This work is inspired by [Oculus GoとALVRとNOLO-CV1でSteam VR Gameを遊ぶ](https://qiita.com/ahinore@github/items/a4a8e675eb89b41921a0)
+* Files in `lib` folder are taken and generated from [NOLO Unity SDK](https://github.com/NOLOVR/NOLO-Unity-SDK)

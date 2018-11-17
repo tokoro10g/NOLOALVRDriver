@@ -22,3 +22,4 @@ ALVRのFreePIE連携機能をMemory Mapped IOを直接叩いて利用してい�
 * [VirtualHere USB](https://www.virtualhere.com/home)のようなものを使えば，スタンドアロン環境でも使えるかもしれません．
 * 開発にあたって，こちらの記事を大いに参考にさせていただきました．  
   [Oculus GoとALVRとNOLO-CV1でSteam VR Gameを遊ぶ](https://qiita.com/ahinore@github/items/a4a8e675eb89b41921a0)
+* `lib` フォルダ内のDLLファイルは，[NOLO Unity SDK](https://github.com/NOLOVR/NOLO-Unity-SDK)のものです．
